@@ -17,11 +17,11 @@
     <WaNoExecCommand>
         simstack_server_mamba_source
         conda activate qe
-        python relax.py
+        python Relax_QE.py
     </WaNoExecCommand>
 
     <WaNoInputFiles>
-        <WaNoInputFile logical_filename="relax.py">relax.py</WaNoInputFile>
+        <WaNoInputFile logical_filename="Relax_QE.py">Relax_QE.py</WaNoInputFile>
     </WaNoInputFiles>
 
     <WaNoOutputFiles>
