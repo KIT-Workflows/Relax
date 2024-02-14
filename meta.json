@@ -1,0 +1,16 @@
+{
+    "workflow_environment":"SimStack",
+    "title": "Relax",
+    "description": "This script is designed for the relaxation of crystal structures using Quantum Espresso, a package for performing electronic-structure calculations and materials modeling at the nanoscale.",
+    "authors": [
+        "J. Schaarschmidt",
+        "A. Buldin"
+    ],
+    "version": "0.0.1",
+    "logo": "Relax.png",
+    "keywords": [
+        "SimStack",
+        "WaNo",
+        "Relax_QE"
+    ]
+}
