@@ -8,7 +8,6 @@
             This script is designed for the relaxation of crystal structures using Quantum Espresso, a package for performing electronic-structure calculations and materials modeling at the nanoscale.
         </Description>
 
-        <Keyword>Template</Keyword>
     </WaNoMeta>
 
     <WaNoRoot name="Relax_QE">
